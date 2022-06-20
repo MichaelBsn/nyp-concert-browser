@@ -1,0 +1,183 @@
+{
+    "programs": [
+        {
+            "id": "9693c997-8b5e-4355-8d09-b7c8415e959a-0.1",
+            "programID": "8310",
+            "orchestra": "New York Symphony",
+            "season": "1911-12",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Century Theatre",
+                    "Date": "1911-10-27T05:00:00Z",
+                    "Time": "3:10PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51060*",
+                    "composerName": "Liszt,  Franz",
+                    "workTitle": "FAUST SYMPHONY",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": [
+                        {
+                            "soloistName": "Harris, George, Jr.",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Chorus",
+                            "soloistInstrument": "Mens Chorus",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "51164*",
+                    "composerName": "Liszt,  Franz",
+                    "workTitle": "TOTENTANZ",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": [
+                        {
+                            "soloistName": "Bauer, Harold",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1d444245-034d-4e09-9619-e7ac9c3846e3-0.1",
+            "programID": "8311",
+            "orchestra": "New York Symphony",
+            "season": "1911-12",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Century Theatre",
+                    "Date": "1911-10-29T05:00:00Z",
+                    "Time": "3:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "654*",
+                    "composerName": "Liszt,  Franz",
+                    "workTitle": "TASSO: LAMENTO E TRIONFO, (SYMPHONIC POEM NO. 2)",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": []
+                },
+                {
+                    "ID": "9430*",
+                    "composerName": "Liszt,  Franz",
+                    "workTitle": "DEUX LÉGENDES (PIANO SOLO)",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": [
+                        {
+                            "soloistName": "Bauer, Harold",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "51131*",
+                    "composerName": "Liszt,  Franz",
+                    "workTitle": "MAZEPPA (SYMPHONIC POEM NO. 6)",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "51046*",
+                    "composerName": "Liszt,  Franz",
+                    "workTitle": "CONCERTO, PIANO, NO. 1, E FLAT MAJOR",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": [
+                        {
+                            "soloistName": "Bauer, Harold",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "51149*",
+                    "composerName": "Liszt,  Franz",
+                    "workTitle": "PRELUDES, LES (SYMPHONIC POEM NO. 3)",
+                    "conductorName": "Damrosch, Walter",
+                    "soloists": []
+                }
+            ]
+        },
+        {
+            "id": "0d5119e2-a444-4c5b-89f6-3d593b9069e3-0.1",
+            "programID": "1457",
+            "orchestra": "New York Philharmonic",
+            "season": "1911-12",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Carnegie Hall",
+                    "Date": "1911-11-02T05:00:00Z",
+                    "Time": "8:15PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "52456*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "SYMPHONY NO. 8 IN F MAJOR, OP.93",
+                    "conductorName": "Stransky, Josef",
+                    "soloists": []
+                },
+                {
+                    "ID": "654*",
+                    "composerName": "Liszt,  Franz",
+                    "workTitle": "TASSO: LAMENTO E TRIONFO, (SYMPHONIC POEM NO. 2)",
+                    "conductorName": "Stransky, Josef",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "3213*",
+                    "composerName": "Glazunov,  Alexander",
+                    "workTitle": "CONCERTO, VIOLIN, A MINOR, OP. 82",
+                    "conductorName": "Stransky, Josef",
+                    "soloists": [
+                        {
+                            "soloistName": "Zimbalist, Efrem",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9007*17",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "MEISTERSINGER, DIE, WWV 96",
+                    "movement": "Prelude to Act I",
+                    "conductorName": "Stransky, Josef",
+                    "soloists": []
+                }
+            ]
+        }
+    ]
+}
